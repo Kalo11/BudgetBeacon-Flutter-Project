@@ -1,4 +1,4 @@
-package com.example.budget_beacon
+﻿package com.kalo11.budgetbeacon
 
 import io.flutter.embedding.android.FlutterActivity
 
